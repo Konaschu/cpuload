@@ -6,7 +6,7 @@
 	
 3. Starte die main.py mit Rechtsklicken > Öffnen mit > Python
 
-Oder Alternativ: Starte das Programm per CMD oder Powershell im richtigen Pfad mit:
+4. Oder Alternativ: Starte das Programm per CMD oder Powershell im richtigen Pfad mit:
 	py ./main.py
 
-(Zur Konfiguration wie des Intervalls oder der Anzahl der Loops das Skript in einem beliebigen Editor öffnen und Zeile 8,11,14,15 anpassen)
+5. Zur Konfiguration wie des Intervalls oder der Anzahl der Loops das Skript in einem beliebigen Editor öffnen und Zeile 8,11,14,15 anpassen.
