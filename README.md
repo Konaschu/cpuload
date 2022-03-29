@@ -10,3 +10,7 @@
 	py ./main.py
 
 5. Zur Konfiguration wie des Intervalls oder der Anzahl der Loops das Skript in einem beliebigen Editor öffnen und Zeile 8,11,14,15 anpassen.
+
+
+Demo: https://youtu.be/qwXvNm4bARc
+Config: https://youtu.be/3T3-s6CW44s
